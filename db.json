@@ -1,0 +1,52 @@
+{
+  "motorcycles": [
+    {
+      "id": 1,
+      "trademark": "Honda",
+      "model": "2020",
+      "reference": "CB-650-R",
+      "price": 570000,
+      "image": "https://a5i4f6g5.stackpathcdn.com/images/cms/Gris-48571.png"
+    },
+    {
+      "id": 2,
+      "trademark": "Yamaha",
+      "model": "2020",
+      "reference": "Bws X Fi",
+      "price": "5000000",
+      "image": "https://www.yamaha-motor.com.mx/images/motos/bwsfi_5.jpg"
+    },
+    {
+      "trademark": "SUZUKI",
+      "model": "2021",
+      "reference": "NEW GIXXER 150 ABS",
+      "price": "850000",
+      "image": "https://suzuki.com.co/sites/default/files/2021-05/NEW-GIXXER-150-FI-ABS-NEGRA.png",
+      "id": 6
+    },
+    {
+      "trademark": "SUSUKI",
+      "model": "MEGANAZI",
+      "reference": "MEGA NAZI 3000",
+      "price": "999999",
+      "image": "https://cdn.repsodia.com/wp-content/uploads/2017/10/Yamaha-Motoroid-concept-800x600.jpg",
+      "id": 7
+    },
+    {
+      "trademark": "HONDA",
+      "model": "2022",
+      "reference": "La linda",
+      "price": "5999999",
+      "image": "https://25gramos.com/wp-content/uploads/2017/04/motorcycle-moto-custom-kustom-4H10-4h10-sketch-dessin-photoshop-BARBARA-THE-HAIR-OF-THE-DOG-1024x760.png",
+      "id": 9
+    },
+    {
+      "trademark": "YAMAHA",
+      "model": "1350",
+      "reference": "CARACOLETA",
+      "price": "999999999999999",
+      "image": "https://m1.paperblog.com/i/255/2557372/johammer-j1-electric-motorcycle-moto-retro-fu-L-_qB7Vt.jpeg",
+      "id": 11
+    }
+  ]
+}
